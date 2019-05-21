@@ -21,7 +21,7 @@ def false():  # функция сопоставления файлов и выв
                 if SecondString == FirstString:
                     print (' В файле ' + str(files[x]) + ' в строке ' + str(rownum+1) + ' замечен хуй из файла ' + str(files[i]) + ' строка ' + str(rownumGlobal+1))
                 else:
-                    z=1
+                    z=2
 
 
 # выбор директории для работы
